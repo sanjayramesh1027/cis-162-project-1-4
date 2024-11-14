@@ -2,7 +2,7 @@ html{
     background-color: black
 }
 body{
-    background-color: green;
+    background-color: black;
     margin-left:30px;
     margin-right:30px;
     padding-left: 50px;
@@ -10,7 +10,7 @@ body{
 
 }
 .navbar ul{
-    color:white;
+    color:red;
     background-color: #dbb51a;
     list-style-type: none;
     overflow:hidden;
